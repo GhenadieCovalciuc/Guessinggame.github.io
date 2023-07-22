@@ -1,1 +1,1 @@
-# linktoprojecterepo.github.io
+Here is the link to project repository [a link](https://github.com/GhenadieCovalciuc/coursera-bash-project/).
