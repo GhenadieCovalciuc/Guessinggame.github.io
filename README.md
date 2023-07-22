@@ -1,4 +1,4 @@
- Guessing Game
+# Guessing Game
 
 ## Information about the project
 - Date and Time at which make was run: Sat Jul 22 12:06:43 EEST 2023
